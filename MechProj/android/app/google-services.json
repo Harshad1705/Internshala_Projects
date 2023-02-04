@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627272724146",
+    "project_id": "mechproject-c7b7f",
+    "storage_bucket": "mechproject-c7b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627272724146:android:444f94f3bc8ef1cb0063ab",
+        "android_client_info": {
+          "package_name": "com.example.utilitiesstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627272724146-fn2q5mf79qja45s5um46g44sph91khuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIyzWGW58-hMS_SmT35fvbce8TELjB568"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627272724146-fn2q5mf79qja45s5um46g44sph91khuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
