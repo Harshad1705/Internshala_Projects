@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611800395264",
+    "project_id": "bwstory-internashala",
+    "storage_bucket": "bwstory-internashala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611800395264:android:2dbd6245b0d33f6f9132e5",
+        "android_client_info": {
+          "package_name": "com.example.bwstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611800395264-ojvao4sf3teg5ijv16iunn1so7ve5tcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWB5_oeQJRfepYvh1YTeJG7_82gvNbmcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611800395264-ojvao4sf3teg5ijv16iunn1so7ve5tcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
