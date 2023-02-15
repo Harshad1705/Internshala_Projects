@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014855294951",
+    "project_id": "qunatum-internshala",
+    "storage_bucket": "qunatum-internshala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014855294951:android:fe5e81b3bbc45c2220a742",
+        "android_client_info": {
+          "package_name": "com.example.quantum_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014855294951-gpgp0mad7e54oc8ir6kprlb1vnoc7qg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcJG_UN-IxLGE8MB3IaCGR_RoTx5JCtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014855294951-gpgp0mad7e54oc8ir6kprlb1vnoc7qg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
